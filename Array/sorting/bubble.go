@@ -7,7 +7,7 @@ import (
 )
 
 //Bubble sort algorithm implementation
-func Bubble(array []int) {
+func Bubble(array []int) []int {
 
 	fmt.Println("Sorting using Bubble Sort")
 
@@ -26,5 +26,6 @@ func Bubble(array []int) {
 	}
 
 	output.Show(array)
+	return array
 
 }
