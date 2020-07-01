@@ -3,7 +3,7 @@ package sorting
 import (
 	"fmt"
 
-	"github.com/s4rvesh/DSinGo/Array/output"
+	"github.com/s4rvesh/DSinGo/DS-Algorithms/output"
 )
 
 //Bubble sort algorithm implementation
