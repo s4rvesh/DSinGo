@@ -1,6 +1,6 @@
 package sorting
 
-import "github.com/s4rvesh/DSinGo/Array/output"
+import "github.com/s4rvesh/DSinGo/DS-Algorithms/output"
 
 //MergeSort array
 func MergeSort(array []int) []int {

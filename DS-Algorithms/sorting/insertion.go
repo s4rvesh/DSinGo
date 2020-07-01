@@ -1,6 +1,6 @@
 package sorting
 
-import "github.com/s4rvesh/DSinGo/Array/output"
+import "github.com/s4rvesh/DSinGo/DS-Algorithms/output"
 
 //InsertionSort the array
 func InsertionSort(array []int) []int {

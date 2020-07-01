@@ -1,6 +1,6 @@
 package sorting
 
-import "github.com/s4rvesh/DSinGo/Array/output"
+import "github.com/s4rvesh/DSinGo/DS-Algorithms/output"
 
 //QuickSort array
 func QuickSort(array []int) []int {

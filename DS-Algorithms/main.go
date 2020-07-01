@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/s4rvesh/DSinGo/Array/input"
-	"github.com/s4rvesh/DSinGo/Array/output"
-	"github.com/s4rvesh/DSinGo/Array/searching"
-	"github.com/s4rvesh/DSinGo/Array/sorting"
+	"github.com/s4rvesh/DSinGo/DS-Algorithms/input"
+	"github.com/s4rvesh/DSinGo/DS-Algorithms/output"
+	"github.com/s4rvesh/DSinGo/DS-Algorithms/searching"
+	"github.com/s4rvesh/DSinGo/DS-Algorithms/sorting"
 )
 
 func main() {
